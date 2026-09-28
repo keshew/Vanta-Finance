@@ -11,7 +11,7 @@
         bundle_identifier: com.app.VantaFinance
       vars:
         APP_STORE_CONNECT_KEY: vantafinance_key
-        APP_STORE_APPLE_ID: 6814830544
+        APP_STORE_APPLE_ID: 6817031818
         BUNDLE_ID: "com.app.VantaFinance"
         XCODE_PROJECT: "Vanta Finance.xcodeproj"
         XCODE_SCHEME: "Vanta Finance"
